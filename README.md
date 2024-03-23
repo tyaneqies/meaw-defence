@@ -12,7 +12,7 @@
 
   Name               |  Roles                             | Contact               | 
 ---------------------|------------------------------------|-----------------------| 
-Chutichaya Fankam-ai |  Level designer and Game developer |[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" width="24">](https://github.com/tyaneqies)&nbsp;&nbsp;[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" width="24">](mailto:chutichaya.fan@gmail.com)| 
+Chutichaya Fankam-ai |  Level designer and Game developer |[<img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" width="24">](https://github.com/tyaneqies)&nbsp;&nbsp;[<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" width="24">](mailto:chutichaya.fan@gmail.com)| 
 Titikan Puttinun     |  2D and 3D Modeler, UI             |[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" width="24">](https://x.com/meebonn_)&nbsp;&nbsp;[<img src="https://cdn.iconscout.com/icon/free/png-512/free-artstation-3521283-2944702.png?f=webp&w=512" width="24">](https://www.artstation.com/meebonn)| 
 
 ## Requirements
