@@ -19,6 +19,6 @@ Titikan Puttinun     |  2D and 3D Modeler, UI             |[<img src="https://gi
  * [Unity](https://unity.com/download)
 
 ## Installation
-* Clone the project to your local directory.
+* Clone the project to your local directory
 * Open project file with Unity
 * [Build and run it!](https://docs.unity3d.com/Manual/BuildSettings.html)
