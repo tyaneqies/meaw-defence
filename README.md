@@ -6,7 +6,7 @@
 
 <img src="https://github.com/tyaneqies/meaw-defence/blob/main/img/mainmenu.png?raw=true" width="500" height="300">
 <img src="https://github.com/tyaneqies/meaw-defence/blob/main/img/level.png?raw=true" width="500" height="300">
-<img src="https://github.com/tyaneqies/meaw-defence/blob/main/img/preview.gif?raw=true" width="00" height="300">
+<img src="https://github.com/tyaneqies/meaw-defence/blob/main/img/preview.gif?raw=true" width="500" height="300">
 
 ## Team Members
 
